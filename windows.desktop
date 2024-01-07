@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WindowsVM
+Exec=/home/edurso/dev/vm/start.sh
+Icon=/home/edurso/dev/vm/windows.logo.png
+Terminal=false
+Type=Application
+Categories=System;
+
